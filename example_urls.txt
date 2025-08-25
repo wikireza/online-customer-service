@@ -1,0 +1,8 @@
+# Example URLs file
+# Lines starting with # are comments and will be ignored
+# Add one URL per line
+
+# Example URLs (remove these and add your own)
+# https://www.example.com/file1.pdf
+# https://www.sample.com/document.docx
+# https://files.example.org/image.jpg
